@@ -1,0 +1,5 @@
+a#features_link {
+    &:hover{
+        color:red;
+    }
+}
